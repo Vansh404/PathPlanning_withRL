@@ -2,7 +2,7 @@
 Path planning in mobile robots with Temporal Difference methods, Q Learning and SARSA.
 
 
-The following video shows the agent iteratiing in the environment until it converges onto the optimal path
+The following video shows the agent iterating in the environment until it converges onto the optimal path
 https://user-images.githubusercontent.com/79185485/197855234-d59dae3b-bb08-4aee-8397-43119bb09253.mp4
 
 
